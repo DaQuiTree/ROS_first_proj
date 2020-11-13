@@ -1,0 +1,8 @@
+prefix=/home/houzy/dog_ws/devel
+
+Name: puppy
+Description: Description of puppy
+Version: 0.0.0
+Cflags: -I/home/houzy/dog_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp

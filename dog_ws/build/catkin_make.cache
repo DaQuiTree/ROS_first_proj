@@ -1,0 +1,2 @@
+puppy
+-DCATKIN_DEVEL_PREFIX=/home/houzy/dog_ws/devel -DCMAKE_INSTALL_PREFIX=/home/houzy/dog_ws/install -G Unix Makefiles

@@ -1,0 +1,5 @@
+string action
+uint8 value
+uint8 health_input
+---
+uint8 health_output
